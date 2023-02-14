@@ -1,2 +1,1 @@
-# segundo-repocitorio
-repocitorio de prueva 2
+esta es mi segunda prueba de como crear un repocitorio y clonarlo desde github
